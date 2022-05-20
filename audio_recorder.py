@@ -1,5 +1,5 @@
 # importing all the neccessary and required libraries
-imprt speech_recognition as sr
+import speech_recognition as sr
 import time
 import sounddevice as sd
 
